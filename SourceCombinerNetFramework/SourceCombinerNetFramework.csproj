@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{083A32D7-62CE-4D6C-B7FB-6C0C34E2E67F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SourceCombiner</RootNamespace>
-    <AssemblyName>SourceCombiner</AssemblyName>
+    <RootNamespace>SourceCombinerNetFramework</RootNamespace>
+    <AssemblyName>SourceCombinerNetFramework</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
